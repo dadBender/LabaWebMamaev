@@ -1,0 +1,4 @@
+{"name":"Anton Efimov","message":"\u043e\u0433\u043e","date":"2025-06-11 08:37:58","image":null}
+{"name":"\u041d\u0438\u043a\u0438\u0442\u0430","message":"\u0412\u0430\u0443","date":"2025-06-11 08:38:06","image":null}
+{"name":"\u041d\u0438\u043a\u0438\u0442\u0430","message":"\u0412\u0430\u0443","date":"2025-06-11 08:38:16","image":null}
+{"name":"\u041d\u0438\u043a\u0438\u0442\u0430","message":"dfghj","date":"2025-06-11 08:46:38","image":null}
